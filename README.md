@@ -7,9 +7,10 @@ O Ivone é um marketplace de cabeleireiros, possibilitando que profissionais do 
 Com ele é possível publicar ou encontrar o melhor serviço para o seu cabelo, além de impulsionar profissionais que tenham o desejo de ascender na área sem a necessidade de um salão.
 
 ### ⚙️ Ferramentas e tecnologias utilizadas
-- **Figma**
-- **Trello**
-- **TypeScript**
-- **React Native**
-- **Styled Components**
+- <a href="https://www.figma.com/">**Figma**</a>
+- <a href="https://www.trello.com/">**Trello**</a>
+- <a href="https://www.typescriptlang.org/">**TypeScript**</a>
+- <a href="https://reactnative.dev/">**React Native**</a>
+- <a href="https://styled-components.com/">**Styled Components**</a>
 
+### 📸 Preview do projeto
